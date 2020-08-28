@@ -4,7 +4,7 @@ AC1-  Primeira Interação com o Git.
 
 **comandos utilizados**
 
-*comando para clonar esse repositorio
+* comando para clonar esse repositorio
 ```bash
 git clone https://github.com/jusiqueirab/devops-aula05.git
 
